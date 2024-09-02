@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project documents  This project documents the creation of my personal home cybersecurity lab. It is a dedicated space where I practice penetration testing and conduct cybersecurity research. Through this lab, I aim to develop and refine my skills by working with various tools and technologies, simulating real-world scenarios to enhance my understanding and response to security challenges.
+This project documents the creation of my personal home cybersecurity lab. It is a dedicated space where I practice penetration testing and conduct cybersecurity research. Through this lab, I aim to develop and refine my skills by working with various tools and technologies, simulating real-world scenarios to enhance my understanding and response to security challenges.
 
 ## Project Description
 
