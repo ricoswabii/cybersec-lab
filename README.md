@@ -1,6 +1,31 @@
 # Home Cybersecurity Lab
 ![Homelab](Homelab.webp)
 
+## 📑 Table of Contents  
+- [Overview](#overview)  
+- [Project Description](#project-description)  
+  - [Penetration Testing](#penetration-testing)  
+  - [Cybersecurity Research](#cybersecurity-research)  
+  - [Skill Development](#skill-development)  
+- [Key Components](#key-components)  
+  - [Operating Systems](#operating-systems)  
+  - [Virtual Machines](#virtual-machines)  
+  - [Virtualization](#virtualization)  
+  - [Networking Equipment](#networking-equipment)  
+  - [Security Tools](#security-tools)  
+- [Continuous Learning and Adaptation](#continuous-learning-and-adaptation)  
+  - [Pursue Continuous Learning](#pursue-continuous-learning)  
+  - [Embrace Technological Evolution](#embrace-technological-evolution)  
+  - [Engage with Industry Developments](#engage-with-industry-developments)  
+- [Skills and Competencies](#skills-and-competencies)  
+  - [Practical Expertise](#practical-expertise)  
+  - [Technical Proficiency](#technical-proficiency)  
+  - [Analytical Capabilities](#analytical-capabilities)  
+- [Future Aspirations](#future-aspirations)  
+  - [Enhance Lab Capabilities](#enhance-lab-capabilities)  
+  - [Contribute to the Cybersecurity Community](#contribute-to-the-cybersecurity-community)  
+
+
 ## Overview
 
 This project documents the creation of my personal home cybersecurity lab. It is a dedicated space where I practice penetration testing and conduct cybersecurity research. Through this lab, I aim to develop and refine my skills by working with various tools and technologies, simulating real-world scenarios to enhance my understanding and response to security challenges.
