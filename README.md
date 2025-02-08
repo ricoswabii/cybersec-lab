@@ -4,26 +4,26 @@
 ## 📑 Table of Contents  
 - [Overview](#overview)  
 - [Project Description](#project-description)  
-  - [Penetration Testing](#penetration-testing)  
-  - [Cybersecurity Research](#cybersecurity-research)  
-  - [Skill Development](#skill-development)  
+  - Penetration Testing  
+  - Cybersecurity Research
+  - Skill Development
 - [Key Components](#key-components)  
-  - [Operating Systems](#operating-systems)  
-  - [Virtual Machines](#virtual-machines)  
-  - [Virtualization](#virtualization)  
-  - [Networking Equipment](#networking-equipment)  
-  - [Security Tools](#security-tools)  
+  - Operating System 
+  - Virtual Machines
+  - Virtualization 
+  - Networking Equipment
+  - Security Tools
 - [Continuous Learning and Adaptation](#continuous-learning-and-adaptation)  
-  - [Pursue Continuous Learning](#pursue-continuous-learning)  
-  - [Embrace Technological Evolution](#embrace-technological-evolution)  
-  - [Engage with Industry Developments](#engage-with-industry-developments)  
+  - Pursue Continuous Learning 
+  - Embrace Technological Evolution  
+  - Engage with Industry Developments  
 - [Skills and Competencies](#skills-and-competencies)  
-  - [Practical Expertise](#practical-expertise)  
-  - [Technical Proficiency](#technical-proficiency)  
-  - [Analytical Capabilities](#analytical-capabilities)  
+  - Practical Expertise 
+  - Technical Proficiency
+  - Analytical Capabilities 
 - [Future Aspirations](#future-aspirations)  
-  - [Enhance Lab Capabilities](#enhance-lab-capabilities)  
-  - [Contribute to the Cybersecurity Community](#contribute-to-the-cybersecurity-community)  
+  - Enhance Lab Capabilities
+  - Contribute to the Cybersecurity Community 
 
 
 ## Overview
