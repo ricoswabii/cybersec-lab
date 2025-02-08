@@ -1,4 +1,5 @@
 # Home Cybersecurity Lab
+![Homelab](Homelab.webp)
 
 ## Overview
 
