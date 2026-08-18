@@ -1,5 +1,5 @@
-# Home Cybersecurity Lab
-![Homelab](Homelab.webp)
+# CyberOps - Home Lab
+![Homelab](cyberops1.png)
 
 ## 📑 Table of Contents  
 - [Overview](#overview)  
