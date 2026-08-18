@@ -49,14 +49,13 @@ The lab is continuously evolving as I learn new technologies, complete security 
 │                  CYBEROPS LAB                   │
 ├─────────────────────────────────────────────────┤
 │                                                 │
-│  🔴 Offensive Security                          │
 │  🔵 SOC / Blue Team                             │
 │  🟣 Threat Detection                            │
 │  🟢 Incident Response                           │
 │  🟡 Network Security                            │
 │  🟠 Threat Intelligence                         │
-│  ⚪ Security Research                            │
-│                                                 │
+│  ⚪ Security Research                           │
+│  🔴 Offensive Security                          │
 └─────────────────────────────────────────────────┘
 ```
 
