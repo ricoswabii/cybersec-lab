@@ -2,7 +2,9 @@
 
 ![CyberOps Home Lab](cyberops1.png)
 
-> **A personal cybersecurity laboratory for hands-on SOC operations, threat detection, incident response, penetration testing, vulnerability assessment, network security, and continuous security research.**
+> **A personal cybersecurity laboratory for hands-on SOC operations, threat detection, incident response, penetration testing, vulnerability assessment, network security, and continuous security research. The CyberOps Home Lab is an ongoing project rather than a finished environment.
+
+As I continue developing my cybersecurity skills, the lab will continue to evolve with new infrastructure, technologies, detection techniques, attack simulations, and defensive capabilities.**
 
 ---
 
